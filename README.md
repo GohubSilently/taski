@@ -36,6 +36,7 @@ Task API — это REST-сервис для управления задачам
 - Python
 - Django, DRF
 - Docker
+- PostgreSQL
 - SQLite
 
 ---
